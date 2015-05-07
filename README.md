@@ -1,2 +1,4 @@
-# TestGitHub
-Github Tutorial
+TestGithub
+==========
+
+TestGithub is a repository for showing the mini
